@@ -1,0 +1,4 @@
+Bonjour
+ TP files
+Ceci est un test   TP files
+Nombre total de lignes copiées : 3
